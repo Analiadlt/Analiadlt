@@ -5,7 +5,7 @@ Poseo capacitación en: 🤓 JavaScript - React - Redux - NodeJs - Express. Tamb
 
 Amo la lógica matemática y poseo habilidad en la resolución de problemas.
 Me gusta la organización, soy responsable y comprometida con los demás.
-Trabajar en equipo es mi ideal: "NINGUNO sabe TODO lo necesario y TODOS sabemos ALGO importante."
+Trabajar en equipo es mi ideal: "Cada uno tiene algo para aportar y para mejorar."
 💻 
 
 
@@ -13,4 +13,4 @@ Trabajar en equipo es mi ideal: "NINGUNO sabe TODO lo necesario y TODOS sabemos 
 
 I love mathematical logic and I'm good at problem solving. 
 I like to be organizated, I'm responsible and committed to others. 💻 
-Teamwork is my ideal: "NOBODY knows EVERYTHING and EVERYBODY knows SOMETHING important." 
+Teamwork is my ideal: "Each one has something important to contribute and improve." 
