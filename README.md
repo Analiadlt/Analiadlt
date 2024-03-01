@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there!<br>😀 I'm Analía de la Torre, fullstack web developer, I love mathematical logic and I'm good at problem solving.<br>🧐 I've got intermediate knowledge of the English language.<br>📖 I´m learning Python.<br>💻 Teamwork is my ideal.  I like to be organizated, I'm responsible and committed to others.<br>📧 Contact: delatorreanalia@gmail.com 
+👋 Hi there!<br>😀 I'm Analía de la Torre, fullstack web developer, I love mathematical logic and I'm good at problem solving.<br>💻 Teamwork is my ideal.  I like to be organizated, I'm responsible and committed to others.<br>
 
 
 ## 🌐 Socials:
